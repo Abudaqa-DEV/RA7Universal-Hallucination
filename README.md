@@ -116,6 +116,7 @@ GitHub: https://github.com/Abudaqa-DEV
 
 Repository: https://github.com/Abudaqa-DEV/RA7Universal-Hallucination
 
+Discord: https://discord.gg/kraNsTTBt
 ---
 
 ### 👁️ RA7 DEV
