@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this resource, please cite it."
+title: "Universal Hallucination - FiveM hallucination script"
+version: 1.3.0
+license: MIT
+repository-code: "https://github.com/Abudaqa-DEV/RA7Universal-Hallucination"
+url: "https://discord.gg/Zk5CrhHYe"
+authors:
+  - alias: "Abudaqa"
+    name: "Ra7 DEV"
+keywords: [fivem, fivem-script, hallucination, roleplay, horror, esx, qbcore, qbox, lua]
