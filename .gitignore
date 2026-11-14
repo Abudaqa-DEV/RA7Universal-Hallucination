@@ -1,7 +1,0 @@
-# runtime data written by the resource (scenes, zones, places, stress, swap pouch)
-data/*.json
-!data/.gitkeep
-tests/shots/
-__pycache__/
-*.pyc
-.DS_Store
